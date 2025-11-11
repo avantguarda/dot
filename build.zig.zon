@@ -5,8 +5,8 @@
     .minimum_zig_version = "0.15.2",
     .dependencies = .{
         .toml = .{
-            .url = "git+https://github.com/sam701/zig-toml#b59298f0f3ec9bcc8a413ad06af2f64d44d5d24c",
-            .hash = "toml-0.3.0-bV14BXp4AQAfuNx6Ozigoo8ZkJbTi4uT6ZKJWIQMfuju",
+            .url = "git+https://github.com/sam701/zig-toml?ref=zig-0.15#475b03c630c802f8b6bd3e239d8fc2279b4fadb8",
+            .hash = "toml-0.3.0-bV14BfV7AQD8DkuQI7skP8ekQTaBYKTO0MY_35Cw_EXo",
         },
     },
     .paths = .{
